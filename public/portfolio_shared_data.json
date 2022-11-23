@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "name": "Soe Thu",
+    "titles": [
+      "Analysis Developer",
+      "Front-end Developer",
+      "Back-end  Developer",
+      "Mobile Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/soet8888",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/fb.soethu",
+        "class": "fab fa-facebook"
+      },
+      {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/soethu",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Golang",
+        "class": "devicon-go-original-wordmark",
+        "level": "95"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain-wordmark",
+        "level": "99"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original colored",
+        "level": "90"
+      },
+      {
+        "name": "TailwindCSS",
+        "class": "devicon-tailwindcss-original-wordmark",
+        "level": "90"
+      },
+      {
+        "name": "Flutter",
+        "class": "devicon-flutter-plain",
+        "level": "90"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "99"
+      },
+      {
+        "name": "GCP",
+        "class": "devicon-googlecloud-plain-wordmark",
+        "level": "100"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "75"
+      }
+    ]
+  }
+}
