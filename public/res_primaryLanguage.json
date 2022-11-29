@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "My name is Soe Thu. I'm software developer and working on fullstack developer role from supporting  to testing to writing code to system analysis  to software deployment .",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
+      "title": "Forward Fueling System",
       "startDate": "2020",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
@@ -83,37 +83,68 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Datafocus Company limited",
+      "title": "Fullstack Developer",
+      "years": "08.2022 - current",
+      "rootClass": "text-center ",
+      "mainClass": "fab fa-node experience-icon",
       "mainTech": [
-        "Angular 8/9/10"
+        "NodeJS"
       ],
       "technologies": [
         "REST API",
-        "RxJS",
+        "Graphql API",
+        "Apollo client ",
+        "Prisma Client",
+        "Docker",
+        "firbase",
+        "mysql",
+        "ReactJs",
+        "ExpressJS",
+        "GCP",
+        "Firebase Hosting",
+        "react-native",
+        "Flutter",
         "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Material-UI",
+        "TailwindCSS",
+        "Antd Design",
+        "CI/CD"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Mokkon24",
+      "title": "Software Developer",
+      "years": "01.2019 - 04.2020",
+      "rootClass": "text-center m-4",
+      "mainClass": "devicon-go-original-wordmark ",
       "mainTech": [
-        "Angular 7/8"
+        "Golang",
+        "React"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
+        "Rest API",
+        "Flutter",
+        "Gorilla",
+        "MaterialUI",
         "JavaScript",
-        "DHTMLX Gantt"
+        "firebase"
+      ]
+    },
+    {
+      "company": "Autoleum Pte.ltd",
+      "title": "Analyst Developer",
+      "years": "03.2018 - 01.2019",
+      "rootClass": "text-center m-4",
+      "mainClass": "devicon-go-original-wordmark ",
+      "mainTech": [
+        "Golang"
+      ],
+      "technologies": [
+        "REST API",
+        "ReactJs",
+        "JavaScript",
+        "Material-UI"
       ]
     }
   ]

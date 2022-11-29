@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
 import NodeIcon from '@iconify/icons-logos/nodejs-icon';
-import firebasIcon from '@iconify/icons-logos/firebase';
+import fileTypeGoGopher from '@iconify/icons-vscode-icons/file-type-go-gopher';
 
 
 class About extends Component {
@@ -36,13 +36,18 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
+                    icon={fileTypeGoGopher}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={firebasIcon}
+                    icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                  {/* <Icon
+                    icon="vscode-icons:file-type-go"
+                   // style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  /> */}
+                  <i className="vscode-icons:file-type-go" style={{ fontSize: "220%" }} />
                 </span>
               </div>
             </div>
@@ -51,7 +56,10 @@ class About extends Component {
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
-                    <span
+                    <span style={{ fontSize: 20, fontWeight: 'bold' }}>
+                      Me
+                    </span>
+                    {/* <span
                       className="iconify"
                       data-icon="emojione:red-circle"
                       data-inline="false"
@@ -67,7 +75,7 @@ class About extends Component {
                       className="iconify"
                       data-icon="twemoji:green-circle"
                       data-inline="false"
-                    ></span>
+                    ></span> */}
                   </div>
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
